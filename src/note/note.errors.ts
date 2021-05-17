@@ -1,0 +1,5 @@
+export enum NoteErrors {
+  MISSING_ID = 'MISSING_ID',
+  MISSING_BODY = 'MISSING_BODY',
+  NOTE_NOT_FOUND = 'NOTE_NOT_FOUND',
+}
